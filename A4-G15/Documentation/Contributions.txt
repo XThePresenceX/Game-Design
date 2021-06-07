@@ -1,0 +1,7 @@
+Jenil - 6, 10
+Taqi - 1, 2, 3
+Anurag - 4 ,5
+Kenil - 7, 8, 9
+
+Even though we were assigned sections and responsibility but there was a lot of collaboration and pair programming.
+So overall we did alot of mix and match. Nothing was done too specifically. 

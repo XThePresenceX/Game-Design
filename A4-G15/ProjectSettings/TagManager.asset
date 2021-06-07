@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Daimond
+  - FireBall
+  - Heart
+  - Star
+  - Beam
+  - HealthMax
+  - World
+  - G2
+  - G1
+  - D1
+  - Enemy
+  - ST
+  - Boss
+  - MPlatform
+  - Jumper
+  - GoPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - LayerIgnore
+  - Player
+  - Beam
+  - ExplodeIG
+  - Collectables
+  - X
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
